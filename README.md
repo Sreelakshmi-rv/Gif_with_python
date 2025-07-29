@@ -20,25 +20,4 @@ It's as easy as it sounds:
 4.  If the sizes match, *poof*! Your GIF appears, ready for you to preview and download.
 
 
-### Want to Run This on Your Own Machine?
-
-If you want to clone the project and play around with the code, here’s how:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
-    ```
-    *(Don't forget to replace the URL with your actual repository link!)*
-
-2.  **Install the requirements:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Run the app:**
-    ```bash
-    streamlit run app.py
-    ```
-
 That's it! Happy GIF-ing! ✌️
